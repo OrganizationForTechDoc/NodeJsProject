@@ -1,0 +1,14 @@
+<html>
+   <head>
+      <title> Wether Info</title>
+   </head>
+   
+   <body>
+      Hello World!      
+      <form action = "http://127.0.0.1:8081/process_get" method = "GET">
+         City : <input type = "text" name = "city_name">  <br>         
+         <input type = "submit" value = "Submit">
+      </form>
+      
+   </body>
+</html>
